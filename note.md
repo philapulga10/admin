@@ -23,3 +23,4 @@ npm install next-cloudinary
 npx shadcn-ui@latest add table
 npm install @tanstack/react-table
 npm i date-fns
+npx shadcn-ui@latest add dropdown
